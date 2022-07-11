@@ -1,5 +1,9 @@
 # Sales-Analysis-Project
-Sales Analysis using SQL, and Excel. 
+Sales Analysis using SQL, and Excel.
+- Sales for the year 2022 as of 7/7/22
+- Total Monthly Sales by selected month
+- Clean up Total_Price, and Tax data before Analysis
+
 ![Sales Project Excel Sheet](https://user-images.githubusercontent.com/87581626/178191147-c088f6ee-f499-4578-918f-aee478f4efab.JPG)
 
 ![Query 1](https://user-images.githubusercontent.com/87581626/178191219-e7be680b-2530-488f-bad5-c89e8e502036.JPG)
